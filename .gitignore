@@ -1,0 +1,27 @@
+# Generated files excluded from this source snapshot
+__pycache__/
+*.py[cod]
+*.o
+*.a
+*.so
+*.log
+*.stats
+*.trace
+*.cmdtrace
+.env
+.env.*
+!.env.example
+results*/
+*_NoC_traces/
+*_NoP_traces/
+layer_record/
+Final_Results/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+logs*/
+*.egg-info/
+*_log.txt
+Individual_Node_Stats
